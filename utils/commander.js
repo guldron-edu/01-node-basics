@@ -1,4 +1,4 @@
-const { program } = require("commander");
+const { program } = require("../node_modules2/commander");
 
 program
   .option("-t, --task <type>", "type of action")
